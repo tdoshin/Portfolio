@@ -1,0 +1,14 @@
+[
+    {
+      "name": "foodDB",
+      "live": "https://thirsty-wozniak-53791c.netlify.app",
+      "git": "https://github.com/tdoshin/tdoshin.github.io",
+      "image": "https://user-images.githubusercontent.com/72947001/117353475-c554ae80-ae75-11eb-9908-cba2fa7b7217.png"
+    },
+    {
+      "name": "foodShare",
+      "live": "https://foodshareapp.herokuapp.com/",
+      "git": "https://github.com/tdoshin/2ndproject",
+      "image": "https://user-images.githubusercontent.com/72947001/115302375-fcae2600-a127-11eb-872f-29d558278922.png"
+    }
+  ]
